@@ -11,7 +11,9 @@
 		"check": "biome check"
 	},
 	"dependencies": {
+		"@prisma/client": "^6.11.1",
 		"next": "15.3.5",
+		"prisma": "^6.11.1",
 		"react": "^19.0.0",
 		"react-dom": "^19.0.0"
 	},
